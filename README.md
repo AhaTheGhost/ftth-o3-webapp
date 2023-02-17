@@ -37,7 +37,7 @@ _**This web app is only for the BackOffice Agents of the FTTH-O3 company.**_
 2- Added version info
 
 [v2.7.2 Beta] 25/01/2021\
-1- Added partner "Slava"
+1- Added partner "private"
 
 [v2.7.1 Beta] 25/01/2021\
 1- Excel date beautify [FIXED]
